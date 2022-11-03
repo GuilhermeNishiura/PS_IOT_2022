@@ -6,3 +6,13 @@ Gabriel Borowiec Marciano - rm 81779 </br>
 Gabriel Juncken Costa - rm 82460 </br>
 Guilherme Nishiura Machado Silva - rm 82787 </br>
 Leonardo Sanches Alves de Oliveira - rm 82064
+
+</br></br>
+
+# Bibliotecas usadas
+Arduino:</br>
+Adafruit_LiquidCrystal </br>
+</br>
+Node Red:</br>
+Node red dashboard </br>
+Node red serialport
